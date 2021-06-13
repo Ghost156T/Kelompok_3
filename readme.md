@@ -12,4 +12,4 @@ Kelompok3 :
 
 - Mohammad Salman Ramadhan(19201058) 
 
-![link](images/ss.png)
+![link](Images/ss.png)
